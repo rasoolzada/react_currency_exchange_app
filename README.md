@@ -30,4 +30,4 @@ A simple and elegant currency converter built with React that allows users to co
 
 ## Customization
 
-You can customize the styles in `styles.css` to match your preferences or branding. The app is designed to be easily extendable, so feel free to add more features or improvements.
+You can customize the styles in `App.css` to match your preferences or branding. The app is designed to be easily extendable, so feel free to add more features or improvements.
