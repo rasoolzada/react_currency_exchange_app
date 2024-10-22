@@ -4,7 +4,7 @@
 
 A simple and elegant currency converter built with React that allows users to convert amounts between different currencies using real-time exchange rates.
 
-![Currency Converter App Screenshot]([path/to/screenshot.png](https://github.com/rasoolzada/react_currency_exchange_app/blob/master/reac_exchange_rate_app/src/assets/ui.PNG?raw=true))
+![Currency Converter App Screenshot]([path/to/screenshot.png]([https://github.com/rasoolzada/react_currency_exchange_app/blob/master/reac_exchange_rate_app/src/assets/ui.PNG?raw=true)](https://github.com/rasoolzada/react_currency_exchange_app/blob/master/reac_exchange_rate_app/src/assets/ui.PNG)
 
 ## Features
 
